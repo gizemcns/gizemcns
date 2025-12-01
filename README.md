@@ -24,6 +24,23 @@ Bu projede ve genel çalışmalarımda kullandığım ana teknolojiler şunlard�
 
 ---
 
+
+## 🛠️ Diller ve Toolar 
+
+Projelerimde aktif olarak kullandığım programlama dilleri, kütüphaneler ve geliştirme araçları.
+
+| Kategori | Teknoloji / Tool | Yetkinlik Düzeyi |
+| :--- | :--- | :--- |
+| **Programlama Dilleri** | **Python** | İleri Seviye (Aktif Öğrenme) |
+| | **SQL** (PostgreSQL) | İleri Seviye |
+| | **R** | Orta/İyi Seviye (Akademik Kullanım) |
+| **Veri Analizi Kütüphaneleri** | **Pandas**, **NumPy** | Yüksek Yetkinlik |
+| **Makine Öğrenimi** | Scikit-learn | Başlangıç / Orta Seviye |
+| **Versiyon Kontrol** | **Git**, **GitHub** | Günlük Kullanım |
+| **Veritabanı Sistemleri** | PostgreSQL, MySQL | Uygulama Yetkinliği |
+
+git postgresql python r
+
 ### 📧 İletişim
 
 * **LinkedIn:** [www.linkedin.com/in/gizemcanbayındırr]
