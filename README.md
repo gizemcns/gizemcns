@@ -1,5 +1,5 @@
 
-## 👋 Merhaba! Ben [Gizem Can Bayındır]
+## 👋 Merhaba! Ben Gizem Can Bayındır
 
 Merhaba! Ben finansal ve ekonometrik analizden edindiğim sağlam temeli, hızla **Veri Bilimi ve Yapay Zeka Geliştiriciliği** hedefine taşıyan bir profesyonel adayıyım.
 
